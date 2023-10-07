@@ -1,2 +1,7 @@
-#dosya paylaşımı buradan yapılacak gençler
-#hocam yazılımcı arkadaşımız bence mete olsun çünkü çok ıq sü var
+print(input('Merhaba, adın nedir?'))
+
+namın = input('Merhaba Adın Nedir?')
+print(namın)
+print('Merhaba'+ namın)
+namın = 'metehanbabapro31'
+print(namın)
